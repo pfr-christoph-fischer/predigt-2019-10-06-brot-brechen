@@ -10,7 +10,7 @@ summary: "Wem danken wir an Erntedank eigentlich wofür? Haben wir nicht selbst 
 source: pfarrplaner
 source_id: "98@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Brot brechen\"."
-audio: audio.mp3
+audio: brot-brechen.mp3
 audio_duration: "12:32"
 legacy_id: 98
 events:
